@@ -13,5 +13,3 @@ const dayArr = [
 ];
 day.textContent = dayArr[currentTime.getDay()];
 time.textContent = +currentTime
-
-console.log(+currentTime);
